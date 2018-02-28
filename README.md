@@ -3,7 +3,9 @@ GitHub's introductory repository
 
 ---
 
-_Hello World_ **by** `Karl Horning`
+_Hello World_ by **Karl Horning**
+
+![Two-Face](https://avatars3.githubusercontent.com/u/32777806?s=96&v=4)
 
 ---
 
@@ -22,6 +24,4 @@ Things I don't like:
 
 ---
 
-A [Hello World guide](https://guides.github.com/activities/hello-world/).
-
-![Two-Face](https://avatars3.githubusercontent.com/u/32777806?s=96&v=4)
+From a [Hello World guide](https://guides.github.com/activities/hello-world/).
